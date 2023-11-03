@@ -1,0 +1,7 @@
+# PLUGIN MADE BY MATTHIEUJAM
+# discord : matthieujam2
+
+customname: "Testament de §e{player}" #{player}
+customlore: "Tué par {killer}" #{killer}
+
+only: "tout seul"
